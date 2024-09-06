@@ -1,0 +1,1 @@
+# foundry-erc-20-token
